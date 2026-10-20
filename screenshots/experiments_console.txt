@@ -1,0 +1,37 @@
+Flutter assets will be downloaded from https://storage.flutter-io.cn. Make sure you trust this source!
+Launching lib\main.dart on Windows in debug mode...
+Building Windows application...                                    51.2s
+√ Built build\windows\x64\runner\Debug\research_experiments.exe
+[IMPORTANT:flutter/shell/platform/embedder/embedder_surface_gl_impeller.cc(126)] Using the Impeller rendering backend (OpenGLESSDF).
+Syncing files to device Windows...                                 116ms
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on Windows is available at: http://127.0.0.1:52900/mIyHapIYrwQ=/
+The Flutter DevTools debugger and profiler on Windows is available at: http://127.0.0.1:52900/mIyHapIYrwQ=/devtools/?uri=ws://127.0.0.1:52900/mIyHapIYrwQ=/ws
+[Exp1] NonConstItem build #1 (非const列表项)
+[Exp1] ConstItem build #1 (const列表项)
+[Exp1] NonConstItem build #2 (非const列表项)
+[Exp1] NonConstItem build #3 (非const列表项)
+[Exp1] NonConstItem build #4 (非const列表项)
+[Exp2] DeepLeaf build, count=0
+[Exp2] DeepLeaf build, count=1
+[Exp2] DeepLeaf build, count=2
+[Exp3] _ColoredTile build: 条目 1, color=4294951175
+[Exp3] _ColoredTile build: 条目 2, color=4291681337
+[Exp3] _ColoredTile build: 条目 3, color=4282339765
+[Exp3] _ColoredTile build: 条目 3, color=4294951175
+[Exp3] _ColoredTile build: 条目 2, color=4291681337
+[Exp3] _ColoredTile build: 条目 1, color=4282339765
+[Exp3] _ColoredTile build: 条目 3, color=4294961979
+[Exp3] _ColoredTile build: 条目 2, color=4282339765
+[Exp3] _ColoredTile build: 条目 1, color=4280391411
+[Exp3] _ColoredTile build: 条目 1, color=4280391411
+[Exp3] _ColoredTile build: 条目 2, color=4282339765
+[Exp3] _ColoredTile build: 条目 3, color=4294961979
