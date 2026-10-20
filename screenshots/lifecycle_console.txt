@@ -1,0 +1,46 @@
+Flutter assets will be downloaded from https://storage.flutter-io.cn. Make sure you trust this source!
+Resolving dependencies...
+Downloading packages...
+  cupertino_icons 1.0.9 (2.0.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  test_api 0.7.12 (0.7.15 available)
+Got dependencies!
+3 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Launching lib\main.dart on Windows in debug mode...
+Building Windows application...                                    54.2s
+√ Built build\windows\x64\runner\Debug\counter_deep.exe
+[IMPORTANT:flutter/shell/platform/embedder/embedder_surface_gl_impeller.cc(126)] Using the Impeller rendering backend (OpenGLESSDF).
+Syncing files to device Windows...                                 102ms
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on Windows is available at: http://127.0.0.1:57191/2b8XWOMw8As=/
+The Flutter DevTools debugger and profiler on Windows is available at: http://127.0.0.1:57191/2b8XWOMw8As=/devtools/?uri=ws://127.0.0.1:57191/2b8XWOMw8As=/ws
+[Lifecycle] initState: 一次性初始化
+[Lifecycle] didChangeDependencies: 依赖(如主题)变化
+[Lifecycle] build: counter=0, step=1
+
+===== SEND r (hot reload) =====
+
+Performing hot reload...                                        
+[Lifecycle] build: counter=0, step=1
+Reloaded 0 libraries in 413ms (compile: 24 ms, reload: 0 ms, reassemble: 82 ms).
+
+===== SEND R (hot restart) =====
+
+Performing hot restart...                                       
+Restarted application in 776ms.
+[Lifecycle] initState: 一次性初始化
+[Lifecycle] didChangeDependencies: 依赖(如主题)变化
+[Lifecycle] build: counter=0, step=1
+
+===== SEND q (quit) =====
+
+Application finished.
